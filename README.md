@@ -19,7 +19,7 @@
 
 - 🔭 I’m Student.
 - 🌱 I’m currently studying from the Upgard Education.
-- 📫 How to reach me: [linkedin - @imthepk]("https://www.linkedin.com/in/shruti-namdeo-5b3b26200/") 
+- 📫 How to reach me: [linkedin - @Shruti_Namdeo]("https://www.linkedin.com/in/shruti-namdeo-5b3b26200/") 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
