@@ -17,7 +17,7 @@
 <br/>
 
 
-- 🔭 I’m Student.
+- 🔭 I’m A rising web developer.
 - 🌱 I’m currently studying from the Upgard Education.
 - 😄 I have made an e- commerce website in WordPress for an interior designer. Coding like CSS, PHP, HTML is also used in some part in the making of website.   
 - 🤔 I know some frontEnd languages like HTML,CSS, Jvascript
@@ -27,5 +27,4 @@
 
 
 [![Linkedin: Shruti_Namdeo](https://img.shields.io/badge/-@shruti_namdeo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shruti-namdeo-5b3b26200/")](https://www.linkedin.com/in/shruti-namdeo-5b3b26200/)
-[![Telegram: Shruti_Namdeo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/Shruti_Namdeo")](https://t.me/Shruti_Namdeo)
 
