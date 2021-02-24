@@ -17,7 +17,7 @@
 <br/>
 
 
-- 🔭 I’m a rising web developer.
+- 🔭 I’m a full stack developer.
 - 🌱 I’m currently studying from the upGrad Education.
 - 😄 I have made an e- commerce website in WordPress for an interior designer. Coding like CSS, PHP, HTML is also used in some part in the making of website.   
 - 🤔 I know some frontEnd languages like HTML,CSS, Jvascript
