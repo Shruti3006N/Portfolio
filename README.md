@@ -20,7 +20,7 @@
 - 🔭 I’m a full stack developer.
 - 🌱 I’m currently studying from the upGrad Education.
 - 😄 I have made an e- commerce website in WordPress for an interior designer. Coding like CSS, PHP, HTML is also used in some part in the making of website.   
-- 🤔 I know some frontEnd languages like HTML,CSS, Jvascript
+- 🤔 I know some languages like HTML,CSS, Javascript, Java, Spring Boot
 - 📫 How to reach me: [linkedin - @Shruti_Namdeo]("https://www.linkedin.com/in/shruti-namdeo-5b3b26200/") 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
